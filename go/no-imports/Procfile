@@ -1,2 +1,2 @@
-web: echo "test"
+test: echo "hello test"
 hello: echo "hello world"
